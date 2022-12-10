@@ -1,0 +1,12 @@
+Project Name: Handwritten Digit Recognition using Deep Learning CNN Model
+Language Used: Python
+Software: Jupyter Notebook
+Requirements:
+	Modules:
+
+		Keras
+		Tensorflow
+		Matplotlib
+		numpy
+		MNIST dataset
+		cv2 
